@@ -466,7 +466,15 @@ function AppContent() {
             {/* Copyright and Creator */}
             <div className="text-xs text-gray-500 dark:text-gray-400">
               <p>
-                © 2024 {t('footer.copyright', language)} | {t('footer.madeBy', language)} {t('footer.creator', language)}
+                © 2024 {t('footer.copyright', language)} | {t('footer.madeBy', language)}
+                <a
+                  href="https://github.com/ylc6223"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 dark:text-blue-400 hover:text-blue-600 dark:hover:text-blue-300 transition-colors underline decoration-dotted underline-offset-2 ml-1"
+                >
+                  {t('footer.creator', language)}
+                </a>
               </p>
             </div>
 

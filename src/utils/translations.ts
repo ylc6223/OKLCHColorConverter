@@ -15,7 +15,7 @@ export const translations = {
     pasteLch: 'Paste HEX/RGB/HSL to convert to LCH',
     whyOklch: 'Why OKLCH is better than RGB',
     evilMartians: 'Made at Evil Martians,\ndevtools building consultancy.\nBy Andrey Sitnik & Roman Shamin',
-    github: 'evilmartians / oklch-picker',
+    github: 'ylc6223 / OKLCHColorConverter',
     lightnessVsChroma: 'Lightness vs Chroma',
     chromaVsHue: 'Chroma vs Hue',
     hueVsLightness: 'Hue vs Lightness',
@@ -27,7 +27,7 @@ export const translations = {
     footer: {
       copyright: 'Color Converter Tool. All rights reserved.',
       madeBy: 'Made by',
-      creator: 'Jerry',
+      creator: 'ylc6223',
       thanks: 'Inspired by',
       and: 'and the',
       community: 'open source community'
@@ -47,7 +47,7 @@ export const translations = {
     pasteLch: '粘贴 HEX/RGB/HSL 转换为 LCH',
     whyOklch: '为什么 OKLCH 比 RGB 更好',
     evilMartians: '由 Evil Martians 制作，\n开发工具构建咨询公司。\n作者：Andrey Sitnik 和 Roman Shamin',
-    github: 'evilmartians / oklch-picker',
+    github: 'ylc6223 / OKLCHColorConverter',
     lightnessVsChroma: '亮度 vs 色度',
     chromaVsHue: '色度 vs 色相',
     hueVsLightness: '色相 vs 亮度',
@@ -59,7 +59,7 @@ export const translations = {
     footer: {
       copyright: '颜色转换工具。保留所有权利。',
       madeBy: '制作者',
-      creator: 'Jerry',
+      creator: 'ylc6223',
       thanks: '感谢',
       and: '和',
       community: '开源社区'
